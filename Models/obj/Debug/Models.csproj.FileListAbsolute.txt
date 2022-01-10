@@ -1,0 +1,5 @@
+C:\Users\nazmul\Desktop\InternProjectPS\Models\bin\Debug\Models.dll
+C:\Users\nazmul\Desktop\InternProjectPS\Models\bin\Debug\Models.pdb
+C:\Users\nazmul\Desktop\InternProjectPS\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\nazmul\Desktop\InternProjectPS\Models\obj\Debug\Models.dll
+C:\Users\nazmul\Desktop\InternProjectPS\Models\obj\Debug\Models.pdb

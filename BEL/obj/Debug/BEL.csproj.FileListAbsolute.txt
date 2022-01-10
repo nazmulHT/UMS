@@ -1,0 +1,9 @@
+C:\Users\nazmul\Desktop\InternProjectPS\BEL\bin\Debug\BEL.dll
+C:\Users\nazmul\Desktop\InternProjectPS\BEL\bin\Debug\BEL.pdb
+C:\Users\nazmul\Desktop\InternProjectPS\BEL\bin\Debug\Models.dll
+C:\Users\nazmul\Desktop\InternProjectPS\BEL\bin\Debug\Models.pdb
+C:\Users\nazmul\Desktop\InternProjectPS\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\nazmul\Desktop\InternProjectPS\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\nazmul\Desktop\InternProjectPS\BEL\obj\Debug\BEL.csproj.CopyComplete
+C:\Users\nazmul\Desktop\InternProjectPS\BEL\obj\Debug\BEL.dll
+C:\Users\nazmul\Desktop\InternProjectPS\BEL\obj\Debug\BEL.pdb
